@@ -1,0 +1,70 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200&family=Rowdies:wght@300&display=swap');
+
+body {
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Rowdies', cursive;
+    background-color: #EEEEEE;
+    text-align: center;
+    margin: 4em;
+}
+
+h1 {
+    font-size: 3em;
+    color: #00ADB5;
+}
+
+
+p {
+    color: #222831;
+    font-size: 1.25em;
+    text-align: left;
+}
+
+.nav-bar {
+    text-align: center;
+}
+
+.center {text-align: center;}
+
+a {
+    color: #022963;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+ul {
+    color: #222831;
+    font-size: 1.25em;
+    list-style-position: outside;
+    list-style-type: none;
+}
+
+ol {
+    list-style-position: inside;
+}
+
+ol li p {
+    text-align: center;
+}
+
+
+h2 {
+    font-size: 2.25em;
+}
+
+h2,h3 {
+    color: #393E46;
+}
+
+h3 {
+    font-size: 1.5em;
+}
+
+img {
+    padding: 5px;
+    border: 5px #00ADB5 dotted;
+    border-radius: 1.25em;
+}
